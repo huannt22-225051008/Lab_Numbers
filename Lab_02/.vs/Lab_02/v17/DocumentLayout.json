@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Lab_Numbers\\Lab_02\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D8E9D-B8A2-447B-B7A4-C8A3E5F7AA7B}|Lab_02\\Lab_02.csproj|d:\\lab_numbers\\lab_02\\lab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D8E9D-B8A2-447B-B7A4-C8A3E5F7AA7B}|Lab_02\\Lab_02.csproj|solutionrelative:lab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D8E9D-B8A2-447B-B7A4-C8A3E5F7AA7B}|Lab_02\\Lab_02.csproj|d:\\lab_numbers\\lab_02\\lab_02\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D8E9D-B8A2-447B-B7A4-C8A3E5F7AA7B}|Lab_02\\Lab_02.csproj|solutionrelative:lab_02\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D8E9D-B8A2-447B-B7A4-C8A3E5F7AA7B}|Lab_02\\Lab_02.csproj|d:\\lab_numbers\\lab_02\\lab_02\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C0D8E9D-B8A2-447B-B7A4-C8A3E5F7AA7B}|Lab_02\\Lab_02.csproj|solutionrelative:lab_02\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D8E9D-B8A2-447B-B7A4-C8A3E5F7AA7B}|Lab_02\\Lab_02.csproj|d:\\lab_numbers\\lab_02\\lab_02\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D8E9D-B8A2-447B-B7A4-C8A3E5F7AA7B}|Lab_02\\Lab_02.csproj|solutionrelative:lab_02\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D8E9D-B8A2-447B-B7A4-C8A3E5F7AA7B}|Lab_02\\Lab_02.csproj|d:\\lab_numbers\\lab_02\\lab_02\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D8E9D-B8A2-447B-B7A4-C8A3E5F7AA7B}|Lab_02\\Lab_02.csproj|solutionrelative:lab_02\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Lab_Numbers\\Lab_02\\Lab_02\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Lab_02\\Models\\SeedData.cs",
+              "ToolTip": "D:\\Lab_Numbers\\Lab_02\\Lab_02\\Models\\SeedData.cs",
+              "RelativeToolTip": "Lab_02\\Models\\SeedData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:23:17.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lab_Numbers\\Lab_02\\Lab_02\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab_02\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\Lab_Numbers\\Lab_02\\Lab_02\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Lab_02\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T10:21:18.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lab_Numbers\\Lab_02\\Lab_02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_02\\Program.cs",
+              "ToolTip": "D:\\Lab_Numbers\\Lab_02\\Lab_02\\Program.cs",
+              "RelativeToolTip": "Lab_02\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:19:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Lab_Numbers\\Lab_02\\Lab_02\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Lab_02\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Lab_Numbers\\Lab_02\\Lab_02\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Lab_02\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:12:28.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Lab_Numbers\\Lab_02\\Lab_02\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Lab_02\\Models\\Movie.cs",
+              "ToolTip": "D:\\Lab_Numbers\\Lab_02\\Lab_02\\Models\\Movie.cs",
+              "RelativeToolTip": "Lab_02\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:12:22.872Z",
+              "EditorCaption": ""
             }
           ]
         }
